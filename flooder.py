@@ -29,16 +29,16 @@ print "!!:      !!:     !!:!   !!! !!:!   !!! !!:      !!!"
 print ":!:      :!:     :!:    !:! :!:    !:! :!:     !:!"
 print ":::      ::::::: :::::::::: :::::::::: ;::    :::"
 print ":::      :::::::  ::::::::   ::::::::  :::::::::"+N
-print "["+B+""+R+"#"+N+"] "+B+""+R+"Modified by Salik"+N+"   Flooder 2.2 - "+B+""+R+"Salick.gq"+N
+print "["+B+""+R+"#"+N+"] "+B+""+R+"Modified by Salik"+N+"   Flooder 2.3 - "+B+""+R+"Salick.gq"+N
 print
-print "#www.instagram.com/s_a_l_i_c_k_"
+print "➖www.instagram.com/s_a_l_i_c_k_➖"
 print "#Now flood your victim,who connects your Hotspot without your permission."
 
 print
-ip = raw_input('[$] T@rget 1P: ')
-port = input('[$] P0rt: ')
+ip = raw_input('➡️ Target IP: ')
+port = input('➡️ Port: ')
 os.system("clear")
-print "Fl00d attack started on {0}.{1} | {2}-{3}-{4}".format(hour, minute, day, month, year)
+print "Flood attack started on {0}.{1} | {2}-{3}-{4}".format(hour, minute, day, month, year)
 time.sleep(3)
 print
 sent = 0
