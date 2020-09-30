@@ -35,8 +35,8 @@ print "[] www.instagram.com/s_a_l_i_c_k_ []"
 print "#Now flood your victim,who connects your Hotspot without your permission."
 
 print
-ip = raw_input('•> Target IP: ')
-port = input('•> Port: ')
+ip = raw_input(' Target IP: ')
+port = input(' Port: ')
 os.system("clear")
 print "Flood attack started on {0}.{1} | {2}-{3}-{4}".format(hour, minute, day, month, year)
 time.sleep(3)
