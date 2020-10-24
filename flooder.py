@@ -31,7 +31,7 @@ print ":::      ::::::: :::::::::: :::::::::: ;::    :::"
 print ":::      :::::::  ::::::::   ::::::::  :::::::::"+N
 print "["+B+""+R+"#"+N+"] "+B+""+R+"Modified by Salik"+N+"   Flooder 2.3 - "+B+""+R+"Salick.gq"+N
 print
-print "[] www.instagram.com/s_a_l_i_c_k_ []"
+print "[] www.instagram.com/saaalick []"
 print "#Now flood your victim,who connects your Hotspot without your permission."
 
 print
