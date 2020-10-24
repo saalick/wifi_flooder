@@ -29,7 +29,7 @@ print "!!:      !!:     !!:!   !!! !!:!   !!! !!:      !!!"
 print ":!:      :!:     :!:    !:! :!:    !:! :!:     !:!"
 print ":::      ::::::: :::::::::: :::::::::: ;::    :::"
 print ":::      :::::::  ::::::::   ::::::::  :::::::::"+N
-print "["+B+""+R+"#"+N+"] "+B+""+R+"Modified by Salik"+N+"   Flooder 2.3 - "+B+""+R+"Salick.gq"+N
+print "["+B+""+R+"#"+N+"] "+B+""+R+"By Salick"+N+"   Flooder 2.3 - "+B+""+R+"Salick.gq"+N
 print
 print "[] www.instagram.com/saaalick []"
 print "#Now flood your victim,who connects your Hotspot without your permission."
